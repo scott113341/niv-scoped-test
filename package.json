@@ -1,6 +1,6 @@
 {
   "name": "@scott113341/niv-scoped-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Scoped package for testing npm-install-version.",
   "author": "Scott Hardy",
   "license": "MIT",
